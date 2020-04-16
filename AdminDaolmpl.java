@@ -6,5 +6,5 @@ public int add (){}
 public list<> findall(){}
 public int update(){}
 public intdelete(){}
-小组成员姜永康修改
+小组成员姜永康已修改
 }
